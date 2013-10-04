@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project FileVersion="2" Name="Roguelike" MainFile="Roguelike.pas" OutputFileName="Roguelike.exe" OutputDirectory="" ProjectType="ConsoleApp" IncludeDebugInfo="True" GenerateXMLDoc="False" CommandLineArguments="" AppIcon="" DeleteEXE="True" DeletePDB="True" Product="" Company="" Trademark="" Copyright="" MajorVersion="0" MinorVersion="0" BuildVersion="0" RevisionVersion="0">
+  <Items>
+    <Item Type="SourceFile" Name="Roguelike.pas" Path="Roguelike.pas" />
+    <Item Type="SourceFile" Name="types.pas" Path="types.pas" />
+    <Item Type="SourceFile" Name="controller.pas" Path="controller.pas" />
+    <Item Type="SourceFile" Name="iostream.pas" Path="iostream.pas" />
+    <Item Type="Reference" AssemblyName="System" FullAssemblyName="System.dll" />
+  </Items>
+</Project>
