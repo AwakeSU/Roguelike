@@ -1,3 +1,5 @@
+//v. 0.0.0
+
 uses crt, types, iostream, controller;
 var
   map : field;
